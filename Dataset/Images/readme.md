@@ -1,1 +1,0 @@
-Fotoğrafların bulunduğu klasör.
